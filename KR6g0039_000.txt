@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛入涅槃密金剛力士哀戀經
+#+DATE: 2015-08-30 20:05:02.799951
+#+PROPERTY: JUAN 0
