@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:02.555966
+#+DATE: 2015-08-30 20:05:03.878077
 #+TITLE: 佛入涅槃密迹金剛力士哀戀經
 #+PROPERTY: CBETA_ID T12n0394
 #+PROPERTY: ID KR6g0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 394
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6g0039_T_000-1116a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0039_T_001-1116a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.394¶
-
- 《佛入涅槃密迹金剛力士哀戀經》¶
+No. 394¶
+《佛入涅槃密迹金剛力士哀戀經》¶
 ¶
-失譯人名今附秦錄¶
+失譯人名今附秦錄今附秦錄¶
 
 牟尼世尊在拘尸那城娑羅林間北首而臥，¶
 初入涅槃。
@@ -247,7 +246,7 @@ No.394¶
 光色、一切天人皆無歡樂。
 
 「我今形體不自勝¶
-舉欲沒入地，𥈅眩黃黑、心意錯亂、忘失所念、¶
+舉欲沒入地，[目*面]眩黃黑、心意錯亂、忘失所念、¶
 脣乾舌燥、語言錯誤、聲音嘶碎，去死不遠，¶
 命終今必絕，逮佛捨而去。」
 
