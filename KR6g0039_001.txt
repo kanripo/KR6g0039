@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:02.555966
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:11
 #+TITLE: 佛入涅槃密迹金剛力士哀戀經
 #+PROPERTY: CBETA_ID T12n0394
 #+PROPERTY: ID KR6g0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 394
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0039_T_000-1116a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0039_T_001-1116a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.394¶
-
- 《佛入涅槃密迹金剛力士哀戀經》¶
+No. 394¶
+《佛入涅槃密迹金剛力士哀戀經》¶
 ¶
-失譯人名今附秦錄¶
+失譯人名〔今附秦錄〕－【明】今附秦錄今附秦錄¶
 
 牟尼世尊在拘尸那城娑羅林間北首而臥，¶
 初入涅槃。
@@ -243,7 +242,7 @@ No.394¶
 有德、無德等能摧壞。」
 
 作是語時，大地震動、山¶
-頂崩壞、大星隕落、四方火起、日月諸宿無有¶
+頂崩壞、大星殞落、四方火起、日月諸宿無有¶
 光色、一切天人皆無歡樂。
 
 「我今形體不自勝¶
